@@ -111,6 +111,39 @@ else:
 
 ## Output
 
-```bash
+```
+$ py number_guessing.py 
+Hey, What's ur name? 
+shemmee
 
+Lovely to meet you! shemmee
+
+Do You want to play guessing game with me? 
+yes
+Alright shemmee I am thinking about a number between 1 and 100 and you have 10 chances to guess it ;D      
+
+Lets get started
+
+Guess the number 
+37
+Your guess was too high: Guess a number lower than  37
+9 Guesses Left
+
+Guess the number 
+20
+Your guess was too low: Guess a number higher than  20
+8 Guesses Left
+
+Guess the number 
+30
+Your guess was too high: Guess a number lower than  30
+7 Guesses Left
+
+Guess the number 
+29
+YOU WIN!
+You guessed the number in 4 tries!
+GAME OVER
+Number is  29
+Thanks for playing :D
 ```
