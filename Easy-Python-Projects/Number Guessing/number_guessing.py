@@ -29,6 +29,7 @@ elif answer == 'yes' :
 
   print("Game over")
   print("Number is ", n)
+  print('Thanks for playing :D')
 
 else:
   print('sorry, I didnt get it')
