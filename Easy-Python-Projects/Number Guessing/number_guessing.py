@@ -27,7 +27,7 @@ elif answer == 'yes' :
     print(guess_chances, 'Guesses Left')
     count += 1
 
-  print("Game over")
+  print("GAME OVER")
   print("Number is ", n)
   print('Thanks for playing :D')
 
