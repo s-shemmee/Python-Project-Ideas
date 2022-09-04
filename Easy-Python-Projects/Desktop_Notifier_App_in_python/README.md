@@ -87,7 +87,7 @@ Parameters:
 - `ticker (str)` : text to display on status bar as the notification arrives
 - `toast (bool)` : simple Android message instead of full notification
 
-## Here is how you see your notification after running your application.
+## Here is how you see your notification after running your application
 
 ![notification after running](Capture.PNG)
 
@@ -113,4 +113,4 @@ pythonw.exe .\Desktop_Notifier_App.py
 
 ## How to stop getting notifications?
 
-*That’s simple, in the task manager kill the process named python. If you feel any difficulty in stoping the notification please feel free to post your difficulty in the comments section of this article.*
+*That’s simple, in the task manager kill the process named python. If you feel any difficulty in stoping the notification please feel free to post your difficulty in the Discussion section of this Documentation.*
