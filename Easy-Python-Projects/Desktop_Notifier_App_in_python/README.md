@@ -22,7 +22,7 @@ and many more, it’s completely up to you how to use this application.
 
 *Plyer is an open source library to access features commonly found in various platforms via python.*
 
-### Installing required python packages
+## Installing required python packages
 
 *we need to download two important packages for this application.*
 
@@ -86,3 +86,31 @@ Parameters:
 - `time.sleep` : After displaying a notification, we will make it sleep for 1 hour or 60 minutes. You can choose a different interval.
 - `ticker (str)` : text to display on status bar as the notification arrives
 - `toast (bool)` : simple Android message instead of full notification
+
+## Here is how you see your notification after running your application.
+
+![notification after running](Capture.PNG)
+
+## How to make a python application to run in the background?
+
+*Just follow this simple command to make your application run in the background, note you need to type this command in command prompt in case you are using Windows and terminal in case you are using Linux.*
+
+> Note: replace the `<your-file-name-here>` with your file name
+
+```terminal
+pythonw.exe .\<your-file-name-here>
+example 
+pythonw.exe .\Desktop_Notifier_App.py
+```
+
+*That's it your application now starts running in the background.*
+
+## How do you confirm that your application is running in the background?
+
+*open task manager in your pc and you can see that in background process you can see python is running.*
+
+![script running in the backgroung](Capture2.PNG)
+
+## How to stop getting notifications?
+
+*That’s simple, in the task manager kill the process named python. If you feel any difficulty in stoping the notification please feel free to post your difficulty in the comments section of this article.*
