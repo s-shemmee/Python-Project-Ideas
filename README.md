@@ -6,9 +6,9 @@
 
 ## 📚 Beginner
 
-- Number Guessing (https://github.com/s-shemmee/Python-Project-Ideas/tree/main/Easy-Python-Projects/Number_Guessing_in_python)
-- Desktop Notifier App()https://github.com/s-shemmee/Python-Project-Ideas/tree/main/Easy-Python-Projects/Desktop_Notifier_App_in_python
-- Story Generator ()
+- [Number Guessing](https://github.com/s-shemmee/Python-Project-Ideas/tree/main/Easy-Python-Projects/Number_Guessing_in_python)
+- [Desktop Notifier App](https://github.com/s-shemmee/Python-Project-Ideas/tree/main/Easy-Python-Projects/Desktop_Notifier_App_in_python)
+- [Story Generator] ()
 
 ## 👨‍💻 Intermediate
 
