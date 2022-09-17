@@ -6,7 +6,7 @@
 
 ## 📚 Beginner
 
-- [Number Guessing](https://github.com/s-shemmee/Python-Project-Ideas/tree/main/Easy-Python-Projects/Number_Guessing_in_python)
+- [Number Guessing](https://github.com/s-shemmee/Number-Guessing-Python)
 - [Desktop Notifier App](https://github.com/s-shemmee/Desktop_Notifier_Python)
 - [Story Generator](https://github.com/s-shemmee/Python-Project-Ideas/tree/main/Easy-Python-Projects/Story_Generator_in_python)
 - [Do You Want To Hear A Joke](https://github.com/s-shemmee/Python-Project-Ideas/tree/main/Easy-Python-Projects/Do_You_Want_To_Hear_A_Joke)
