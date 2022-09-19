@@ -17,12 +17,12 @@
 
 ## 👨‍💻 Intermediate
 
--
+- [Calories Calculator](https://github.com/s-shemmee/Calories-Calculator-Python)
 -
 -
 
 ## 🏆 Advanced
 
--
+- [Coding Quiz Discord Bot](https://github.com/s-shemmee/Coding-Quiz-Discord-Bot)
 -
 -
