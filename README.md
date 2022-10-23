@@ -24,5 +24,5 @@
 ## 🏆 Advanced
 
 - [Coding Quiz Discord Bot](https://github.com/s-shemmee/Coding-Quiz-Discord-Bot)
--
+- [Mint Your Own NFT](https://github.com/s-shemmee/Mint-Your-Own-NFT)
 -
